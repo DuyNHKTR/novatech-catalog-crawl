@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.env
+.runtime/
+data/
+output/
+cache/
+*.sqlite
+*.db
+*.jsonl
+*.jsonl.zst
+*.tar.zst
